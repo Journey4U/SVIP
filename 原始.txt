@@ -1,0 +1,31 @@
+{
+            "key": "文采",
+            "name": "📄文采┃影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "jar": "./jar/ttkx.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        }, {
+            "key": "csp_瓜子2K",
+            "name": "🍕瓜子影视｜2K直连",
+            "api": "csp_Gz360",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "jar": "./JAR/瓜子.jar"
+        }, {
+            "key": "csp_瓜子",
+            "name": "🌻瓜子┃影视",
+            "api": "csp_Gz360",
+            "jar": "./JAR/xm.jar",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
+        }, 
