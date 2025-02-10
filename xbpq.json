@@ -98,17 +98,6 @@
             "ext": "https://www.heli888.cc/api.php/app/"
         },
         {
-            "key": "csp_lwdy",
-            "name": "拾光☪老王",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./JAR/XBPQ.jar",
-            "ext": {
-                "分类url": "https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
-            }
-        },
-        {
             "key": "饺子影视一",
             "name": "🎃饺子┃影视",
             "type": 3,
