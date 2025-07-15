@@ -102,6 +102,15 @@
             "ext": "./JS/花都影视.js"
         },
         {
+            "key": "女仆咖啡",
+            "name": "py_女仆咖啡",
+            "type": 3,
+            "api": "./PY/女仆咖啡.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "py_妲己",
             "name": "py_妲己",
             "type": 3,
