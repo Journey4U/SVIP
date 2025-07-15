@@ -1,5 +1,4 @@
-﻿{
-    "spider": "./spider.jar",
+﻿{"spider": "./spider.jar",
     "wallpaper": "http://wenxintongxue.serv00.net/image",
     "logo": "https://4708.kstore.space/logo.gif",
     "sites": [
@@ -62,7 +61,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 3.8}
-            }, {
+            },{
                 "key": "厂长弹幕",
                 "name": "厂长｜弹幕",
                 "type": 3,
