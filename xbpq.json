@@ -87,6 +87,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.heli888.cc/api.php/app/"
+             <<  <<  <<  < HEAD
         }, {
             "key": "csp_lwdy",
             "name": "拾光☪老王",
@@ -98,6 +99,9 @@
                 "分类": "电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
             }
         }, {
+             ===  ===  =
+        }, {
+             >>>  >>>  > 7b7ecc6a6944a8f439a608f875f8c88cbfccde28
             "key": "饺子影视一",
             "name": "🎃饺子┃影视",
             "type": 3,
@@ -107,8 +111,13 @@
                 "分类": "电影$1#电视剧$2#动画$41",
                 "分类url": "https://www.jiaozi.me/mlist/index{cateId}-{catePg}.html"
             }
+             <<  <<  <<  < HEAD
         }, {
             "key": "饺子影院二",
+             ===  ===  =
+        }, {
+            "key": "饺子影视二",
+             >>>  >>>  > 7b7ecc6a6944a8f439a608f875f8c88cbfccde28
             "name": "🥟饺子┃影院",
             "type": 3,
             "jar": "./JAR/XBPQ.jar",
@@ -117,6 +126,7 @@
                 "分类": "电影$1#剧集$2#动画$42",
                 "分类url": "https://www.jiaozi.me/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter={letter}&yuyan={lang}&money=&ver=&jq={class}&state=w"
             }
+             <<  <<  <<  < HEAD
         }, {
             "key": "尘落影视",
             "name": "🎃尘落┃影视简写",
@@ -128,6 +138,9 @@
                 "分类url": "https://v.wetv.wang/whole/{cateId}_{area}_{class}__{year}___0_{by}__{catePg}.html"
             }
         }, {
+             ===  ===  =
+        }, {
+             >>>  >>>  > 7b7ecc6a6944a8f439a608f875f8c88cbfccde28
             "key": "河马影视",
             "name": "🎃河马┃影视",
             "type": 3,
@@ -461,6 +474,7 @@
                 "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$19"
             }
+             <<  <<  <<  < HEAD
         }, {
             "key": "XBPQ_黑狐影院",
             "name": "黑狐影院|XBPQ",
@@ -500,6 +514,9 @@
                 "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
             }
         }, {
+             ===  ===  =
+        }, {
+             >>>  >>>  > 7b7ecc6a6944a8f439a608f875f8c88cbfccde28
             "key": "✨火机",
             "name": "✨火机影视✨乐哥甄选✨",
             "type": 3,
