@@ -67,13 +67,13 @@
                 "ratio": 1.5
             },
             "jar": "./JAR/xyqxbpq.jar",
-            "ext": "./JS/theporn.js"
+            "ext": "./JS/theporn🤫.js"
         },
         {
             "key": "py_Xhm",
             "name": "py_Xhm",
             "type": 3,
-            "api": "./PY/py_Xhm.py",
+            "api": "./PY/py_Xhm🤫.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -123,7 +123,7 @@
             "key": "Lav秒播",
             "name": "py_Lav",
             "type": 3,
-            "api": "./PY/py_lav.py",
+            "api": "./PY/py_lav🤫.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -132,7 +132,7 @@
             "key": "XMVideo",
             "name": "熊猫视频",
             "type": 3,
-            "api": "csp_XMVideo",
+            "api": "csp_XMVideo🤫",
             "searchable": 1,
             "filterable": 1,
             "jar": "./JAR/182.jar"
