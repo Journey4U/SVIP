@@ -73,7 +73,7 @@
             "key": "py_Xhm",
             "name": "py_Xhm",
             "type": 3,
-            "api": "./py/py_Xhm.py",
+            "api": "./PY/py_Xhm.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
