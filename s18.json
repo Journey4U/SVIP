@@ -44,6 +44,56 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./JSON/NOWTV.json"
+        },        {
+            "key": "JAVSB",
+            "name": "🔞JAVSB（免翻）",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./JAR/XBPQ_1.76M.jar",
+            "ext": "./JSON/JAVSB.json"
+        },
+          {
+            "key": "bika",
+            "name": "🔞比卡（免翻）",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./JAR/XBPQ_1.76M.jar",
+            "ext": "./JSON/比卡.json"
+        },{
+            "key": "黄色仓库",
+            "name": "黄色仓库",
+            "type": 1,
+            "api": "https://hsckzy.vip/api.php/provide/vod/",
+            "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "黑料.py",
+            "name": "黑料大全APP",
+            "type": 3,
+            "api": "./PY/黑料.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },{
+            "key": "随机小姐.py",
+            "name": "随机小姐姐",
+            "type": 3,
+            "api": "./PY/随机小姐姐.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },
+         {
+            "key": "推特APP.py",
+            "name": "🔞推特APP",
+            "type": 3,
+            "api": "./PY/推特APP.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
         },
         {
             "key": "py_色播",

@@ -63,6 +63,46 @@
                 "type": "rect",
                 "ratio": 3.8
             }
+        },{
+            "key": "随机小姐.py",
+            "name": "随机小姐姐",
+            "type": 3,
+            "api": "./PY/随机小姐姐.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },{
+            "key": "河马短剧.py",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "./PY/河马短剧.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },{
+            "key": "农民影视.py",
+            "name": "农民影视",
+            "type": 3,
+            "api": "./PY/农民影视.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },{
+            "key": "浪酷APP.py",
+            "name": "浪酷APP",
+            "type": 3,
+            "api": "./PY/浪酷APP.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
+        },{
+            "key": "天天APP.py",
+            "name": "天天APP",
+            "type": 3,
+            "api": "./PY/天天APP.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1
         },
         {
             "key": "py_金牌",
