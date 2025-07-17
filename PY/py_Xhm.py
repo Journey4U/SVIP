@@ -1,5 +1,5 @@
 # coding=utf-8
-# !/usr/bin/python
+# !/usr/bin/py🤫thon
 # by嗷呜
 import json
 import sys
