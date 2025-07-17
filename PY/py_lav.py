@@ -1,5 +1,5 @@
 # coding=utf-8
-# !/usr/bin/python
+# !/usr/bin/py🤫thon
 # 嗷呜
 import sys
 from base64 import b64encode, b64decode
