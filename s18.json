@@ -67,13 +67,13 @@
                 "ratio": 1.5
             },
             "jar": "./JAR/xyqxbpq.jar",
-            "ext": "./JS/theporn.js"
+            "ext": "./JS/theporn🤫.js"
         },
         {
             "key": "py_Xhm",
             "name": "py_Xhm",
             "type": 3,
-            "api": "./py/py_Xhm.py",
+            "api": "./PY/py_Xhm🤫.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -102,6 +102,15 @@
             "ext": "./JS/花都影视.js"
         },
         {
+            "key": "女仆咖啡",
+            "name": "py_女仆咖啡",
+            "type": 3,
+            "api": "./PY/女仆咖啡.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "py_妲己",
             "name": "py_妲己",
             "type": 3,
@@ -111,19 +120,28 @@
             "filterable": 0
         },
         {
+            "key": "Lav秒播",
+            "name": "py_Lav",
+            "type": 3,
+            "api": "./PY/py_lav🤫.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "XMVideo",
             "name": "熊猫视频",
             "type": 3,
-            "api": "csp_XMVideo",
+            "api": "csp_XMVideo🤫",
             "searchable": 1,
             "filterable": 1,
-            "jar": "./jar/182.jar"
+            "jar": "./JAR/182.jar"
         },
         {
             "key": "py_洋马",
             "name": "py_洋马",
             "type": 3,
-            "api": "./py/洋马.py",
+            "api": "./PY/洋马.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -140,7 +158,7 @@
             "name": "🔞吃瓜大全",
             "type": 3,
             "jar": "./JAR/XYQXBPQ.jar",
-            "api": "csp_XBPQ",
+            "api": "csp_XBPQ🤫",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -164,7 +182,7 @@
             "key": "0205XBPQ_每日大赛",
             "name": "每日大赛",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XBPQ🤫",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -261,6 +279,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
+        },        
+        {
+            "key": "❤AIvin    ",
+            "name": "❤AIvin资源",
+            "type": 0,
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "美少女",
@@ -312,7 +339,7 @@
         {
             "key": "91",
             "name": "🔞91麻豆|AV🪜",
-            "jar": "./JAR/xbpq.jar",
+            "jar": "./JAR/XBPQ.jar",
             "type": 1,
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
@@ -334,63 +361,6 @@
             "api": "https://155api.com/api.php/provide/vod/at/xml",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "玉兔专场",
-            "name": "🔞玉兔┃采集🪜",
-            "type": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 0.8
-            },
-            "api": "https://apiyutu.com/api.php/provide/vod/",
-            "jar": "./JAR/xbpq.jar",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                " \"精品推荐\"",
-                "国产精品",
-                "主播秀色",
-                "日本有码",
-                "日本无码",
-                "中文字幕",
-                "童颜巨乳",
-                "性感人妻",
-                "强奸乱伦",
-                "欧美情色",
-                "童真萝莉",
-                "三级伦理",
-                "卡通动漫",
-                "丝袜OL",
-                "口爆颜射",
-                "自拍偷拍",
-                "日本片商",
-                "Cosplay",
-                "素人自拍",
-                "台湾色情",
-                "韩国自拍",
-                "性感港姐",
-                "东南亚情色",
-                "凌辱束缚",
-                "剧情介绍",
-                "多P 3P",
-                "91系列",
-                "网红系列",
-                "野外系列",
-                "女仆系列",
-                "学生中出",
-                "性感旗袍",
-                "兽耳作品",
-                "瑜伽裤",
-                "骚货护士",
-                "及膝袜",
-                "网曝系列",
-                "麻豆传媒",
-                "女同人妖",
-                "恋腿癖"
-            ]
         },
         {
             "key": "玉兔专场",
@@ -499,7 +469,7 @@
             ]
         },
         {
-            "key": "*大地资源",
+            "key": "🔞大地资源",
             "name": "大地资源",
             "type": 0,
             "api": "https://dadiapi.com/api.php",
@@ -752,7 +722,7 @@
             "name": "手鸡助手🪜",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "ext": {
                 "请求头": "手机",
                 "直接播放": "1",
@@ -767,7 +737,7 @@
             "name": "🔞21mm🪜",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "style": {
                 "ratio": 1.33
             },
@@ -784,7 +754,7 @@
             "name": "🔞仕妻舞🪜🪜",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -831,7 +801,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./JAR/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "ext": "./JSON/十八罗汉.json"
         },
         {
@@ -850,7 +820,7 @@
             "name": "🔞🧜‍♀️天美┃影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -869,7 +839,7 @@
             "key": "csp_Gxqvlj",
             "name": "🔞🏃‍♀元气┃少女",
             "type": 3,
-            "jar": "./jar/pg240810.jar",
+            "jar": "./JAR/pg240810.jar",
             "api": "csp_Gxqvlj",
             "searchable": 1,
             "changeable": 0,
@@ -879,7 +849,7 @@
             "key": "Hanime",
             "name": "🔞🧚🏻‍♀️里番┃萌娘🪜",
             "type": 3,
-            "jar": "./jar/pg240810.jar",
+            "jar": "./JAR/pg240810.jar",
             "api": "csp_Hanime",
             "searchable": 1,
             "changeable": 1,
@@ -889,7 +859,7 @@
             "key": "Jable",
             "name": "🔞👮🏻‍♀飒爽┃美媚🪜",
             "type": 3,
-            "jar": "./jar/pg240810.jar",
+            "jar": "./JAR/pg240810.jar",
             "api": "csp_Jable",
             "searchable": 1,
             "quickSearch": 1,
@@ -902,7 +872,7 @@
             "key": "玩偶",
             "name": "🔞🎎玩偶┃娃娃🪜",
             "type": 3,
-            "jar": "./jar/pg240810.jar",
+            "jar": "./JAR/pg240810.jar",
             "api": "csp_Doll",
             "searchable": 1,
             "recordable": 0,
@@ -916,7 +886,7 @@
             "key": "Eighteen",
             "name": "🔞👧十八┃萝莉🪜",
             "type": 3,
-            "jar": "./jar/pg240810.jar",
+            "jar": "./JAR/pg240810.jar",
             "api": "csp_Eighteen",
             "searchable": 1,
             "quickSearch": 1,
@@ -929,7 +899,7 @@
             "key": "Zuise",
             "name": "🔞👩🏻‍🎤最色┃御姐🪜",
             "type": 3,
-            "jar": "./jar/pg240810.jar",
+            "jar": "./JAR/pg240810.jar",
             "api": "csp_Zuise",
             "quickSearch": 1,
             "changeable": 1,
@@ -942,7 +912,7 @@
             "name": "🔞迷妹┃珍惜",
             "type": 3,
             "api": "csp_MiMei",
-            "jar": "./jar/custom_spider_450K.jar",
+            "jar": "./JAR/custom_spider_450K.jar",
             "searchable": 1,
             "filterable": 1
         },
@@ -953,7 +923,7 @@
             "api": "csp_J91",
             "searchable": 1,
             "filterable": 1,
-            "jar": "./jar/182.jar"
+            "jar": "./JAR/182.jar"
         },
         {
             "key": "绝美视频",
@@ -976,7 +946,7 @@
             "name": "🔞1AV.ME🪜",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XYQXBPQ.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "ext": {
                 "直接播放": "1",
                 "分类url": "https://www.1av.fun/vodtype/{cateId}-{catePg}.html",
@@ -1007,7 +977,7 @@
             "name": "🔞农夫与少妇",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/XYQXBPQ.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -1040,7 +1010,7 @@
             "name": "🔞海角吃瓜🪜",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "ext": {
                 "分类url": "https://xn--wbs.500sp2.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
                 "分类": "网曝黑料$11#绿帽淫妻$35#国产乱伦$36#偷拍自拍$6#国产传媒$7#国产主播$8#网红头条$20#极品媚黑$12#学生少女$27#明星换脸$9#抖阴视频$10#人兽典藏$21#中文字幕$13#制服诱惑$22#激情动漫$23#SM调教$26"
@@ -1051,7 +1021,7 @@
             "name": "🔞熊猫影视",
             "type": 3,
             "api": "csp_XMVideo",
-            "jar": "./jar/182.jar",
+            "jar": "./JAR/182.jar",
             "searchable": 1,
             "filterable": 1
         },
@@ -1228,7 +1198,7 @@
             "name": "🌏亚洲┃异族",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
+            "jar": "./JAR/XYQXBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
